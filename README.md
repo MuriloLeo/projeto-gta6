@@ -32,14 +32,14 @@ Abra o arquivo index.html no seu navegador:
 
 Duplo clique no arquivo ou use comandos como:
 
-bash
-Copiar código
-open index.html     # macOS
-xdg-open index.html # Linux
-start index.html    # Windows
-Funcionalidades Possíveis
-Layout visual alinhado à estética de GTA 6
+   ```bash
+      open index.html     # macOS
+      xdg-open index.html # Linux
+      start index.html    # Windows
+```
 
-Estilização com CSS moderna
+## Funcionalidades Possíveis
 
-Interações básicas via JavaScript (eventos, animações, menus etc.)
+- Layout visual alinhado à estética de GTA 6
+- Estilização com CSS moderna
+- Interações básicas via JavaScript (eventos, animações, menus etc.)
