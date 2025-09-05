@@ -16,9 +16,9 @@ Este é um projeto colaborativo feito em conjunto com o usuário `devemdobro`, c
 
 projeto-gta6:
 
-src/ # Contém recursos estáticos como estilos, scripts e imagens
-index.html # Página principal
-README.md # Este arquivo
+- src # Contém recursos estáticos como estilos, scripts e imagens
+- index.html # Página principal
+- README.md # Este arquivo
 
 bash
 Copiar código
