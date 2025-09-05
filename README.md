@@ -10,7 +10,7 @@ Este é um projeto colaborativo feito em conjunto com o usuário `devemdobro`, c
 
 - **HTML** — Estrutura da página  
 - **CSS** — Design visual e layout (~49 %)  
-- **JavaScript** — Interatividade básica (~12 %) :contentReference[oaicite:0]{index=0}
+- **JavaScript** — Interatividade básica (~12 %)
 
 ##  Estrutura do Projeto
 
