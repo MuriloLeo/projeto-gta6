@@ -4,7 +4,7 @@
 
 ##  Descrição
 
-Este é um projeto colaborativo feito em conjunto com o usuário `devemdobro`, com foco em criar uma página web temática inspirada no universo de GTA 6. Demonstra habilidades em HTML, CSS e JavaScript, com destaque para organização front-end e estilo visual.
+Este é um projeto colaborativo feito em conjunto com o `devemdobro`, com foco em criar uma página web temática inspirada no universo de GTA 6. Demonstra habilidades em HTML, CSS e JavaScript, com destaque para organização front-end e estilo visual.
 
 ##  Tecnologias Utilizadas
 
