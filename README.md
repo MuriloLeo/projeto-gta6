@@ -14,10 +14,11 @@ Este é um projeto colaborativo feito em conjunto com o usuário `devemdobro`, c
 
 ##  Estrutura do Projeto
 
-projeto-gta6/
-├── src/ # Possivelmente contém recursos estáticos como estilos, scripts ou imagens
-├── index.html # Página principal
-├── README.md # Este arquivo
+projeto-gta6:
+
+src/ # Contém recursos estáticos como estilos, scripts e imagens
+index.html # Página principal
+README.md # Este arquivo
 
 bash
 Copiar código
